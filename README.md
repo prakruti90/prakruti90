@@ -7,5 +7,5 @@
 - 💬 Ask me about ... Technical Writing & Documentation Services 
 - 📫 How to reach me: ... prakruti.prasad2@gmail.com   
 - 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ... Mostly a fashion enthu & at times police     
--->
+- ⚡ Fun fact: ... Mostly a fashion enthu & at times police  
+
