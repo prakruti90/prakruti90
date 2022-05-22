@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ...API Documentation 
 - 🌱 I’m currently learning ...Creating a GitHub profile 
-- 👯 I’m looking to collaborate on ...CONTENT wherein I can Create, merge, and maintain product documentation and release posts for assigned product groups.
+- 👯 I’m looking to collaborate on ...CONTENT wherein I can create, merge, and maintain product documentation and release posts for assigned product groups.
 - 🤔 I’m looking for help with ...DITA & information architecture
 - 💬 Ask me about ... Technical Writing & Documentation Services 
 - 📫 How to reach me: ... prakruti.prasad2@gmail.com   
